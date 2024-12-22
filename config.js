@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "A Confession From Me",
+    introTitle: 'Dear Dira',
+    introDesc: `Everytime you awake, the sun admire your eyes
+                Everytime you asleep, the moon shine your beauty
+                Every step you take, the grounds blooms a charm
+                Every word you talk, the birds hum with harmony`,
+    btnIntro: 'Ehe :3',
+    title: 'Dira The Most Beautiful Person In This World',
+    desc: 'You Know That Youre The Best Person In The World Right? ',
+    btnYes: 'Yes I am <33',
+    btnNo: 'No, I am not :3',
+    question: 'Now That You Acknoledge It. Be Honest okay..Will You Be My Girlfriend?',
+    btnReply: 'Send Your Reply <3',
+    reply: ' ',
+    mess: 'Whatever your response, You will always be the best',
+    messDesc: 'Thank you for reassuring me when I am at my lowest Dir <3',
+    btnAccept: 'I Love You <3',
+    messLink: 'https://ig.me/m/falahnamaku' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
