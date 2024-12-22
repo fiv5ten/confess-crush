@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Whatever your response, You will always be the best',
     messDesc: 'Thank you for reassuring me when I am at my lowest Dir <3',
     btnAccept: 'I Love You <3',
-    messLink: 'https://ig.me/m/falahnamaku' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://i.pinimg.com/originals/ca/d9/d7/cad9d767eec5b8722c4899b70b7e097f.jpg' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
