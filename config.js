@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'No, I am not :3',
     question: 'Now That You Acknoledge It. Be Honest okay..Will You Be My Girlfriend?',
     btnReply: 'Click Here <3',
-    reply: "Plis Ak Gataw Cara Ngoding Respon Biar Kesave Ehe..",
+    reply: "Bales Di WA aja plis, ak gataw cara codingnya ehe...",
     mess: 'Whatever your response, You will always be the best',
     messDesc: 'Thank you for reassuring me when I am at my lowest Dir <3',
     btnAccept: 'I Love You <3',
